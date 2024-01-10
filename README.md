@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 #### _This python script runs the popular text based rock paper scissors game_
 
-![Treasure](https://github.com/Lawrence-Nno/Treasure_Island_Game/blob/main/treasure.png)
+![Treasure](https://github.com/Lawrence-Nno/Rock_Paper_Scissors_Game/blob/main/rock_paper_scissors.png)
 
 Rock Paper Scissors is a fun project I coded when I was learning python. I decided to publish some of my earlier codes during my python journey. Hence this!
 
